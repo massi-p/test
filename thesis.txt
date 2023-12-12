@@ -1,1 +1,3 @@
 Welcome to my thesis text file.
+
+Manatees are known as "sea cows" due to their herbivorous diet, slow-moving nature, and the fact that they graze on aquatic vegetation.
